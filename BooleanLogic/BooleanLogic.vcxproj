@@ -139,7 +139,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="And.cpp" />
+    <ClCompile Include="AndOr.cpp" />
     <ClCompile Include="BooleanLogic.cpp" />
+    <ClCompile Include="Not.cpp" />
+    <ClCompile Include="NotAnd.cpp" />
+    <ClCompile Include="NotAndOr.cpp" />
+    <ClCompile Include="NotOr.cpp" />
+    <ClCompile Include="Or.cpp" />
+    <ClCompile Include="Xor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="And.h" />
+    <ClInclude Include="AndOr.h" />
+    <ClInclude Include="Not.h" />
+    <ClInclude Include="NotAnd.h" />
+    <ClInclude Include="NotAndOr.h" />
+    <ClInclude Include="NotOr.h" />
+    <ClInclude Include="Or.h" />
+    <ClInclude Include="Xor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
