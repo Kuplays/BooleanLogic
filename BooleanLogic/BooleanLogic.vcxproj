@@ -142,6 +142,8 @@
     <ClCompile Include="And.cpp" />
     <ClCompile Include="AndOr.cpp" />
     <ClCompile Include="BooleanLogic.cpp" />
+    <ClCompile Include="Adders\HalfAdder.cpp" />
+    <ClCompile Include="Adders\FullAdder.cpp" />
     <ClCompile Include="Not.cpp" />
     <ClCompile Include="NotAnd.cpp" />
     <ClCompile Include="NotAndOr.cpp" />
@@ -152,6 +154,8 @@
   <ItemGroup>
     <ClInclude Include="And.h" />
     <ClInclude Include="AndOr.h" />
+    <ClInclude Include="Adders\HalfAdder.h" />
+    <ClInclude Include="Adders\FullAdder.h" />
     <ClInclude Include="Not.h" />
     <ClInclude Include="NotAnd.h" />
     <ClInclude Include="NotAndOr.h" />
