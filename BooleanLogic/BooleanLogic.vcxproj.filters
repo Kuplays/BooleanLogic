@@ -48,6 +48,9 @@
     <ClCompile Include="Adders\FullAdder.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Adders\Summator4BitFull.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Not.h">
@@ -78,6 +81,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Adders\FullAdder.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Adders\Summator4BitFull.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

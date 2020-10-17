@@ -149,6 +149,7 @@
     <ClCompile Include="NotAndOr.cpp" />
     <ClCompile Include="NotOr.cpp" />
     <ClCompile Include="Or.cpp" />
+    <ClCompile Include="Adders\Summator4BitFull.cpp" />
     <ClCompile Include="Xor.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -161,6 +162,7 @@
     <ClInclude Include="NotAndOr.h" />
     <ClInclude Include="NotOr.h" />
     <ClInclude Include="Or.h" />
+    <ClInclude Include="Adders\Summator4BitFull.h" />
     <ClInclude Include="Xor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
